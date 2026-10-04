@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/johnnylibretexts/pressbooks-cli/internal/pressbooks"
+	"github.com/johnnylibretexts-ai/pressbooks-cli/internal/pressbooks"
 )
 
 func TestNetworksNeedsNoNetworkRequest(t *testing.T) {

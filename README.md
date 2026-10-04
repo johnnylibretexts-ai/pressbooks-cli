@@ -1,8 +1,8 @@
 # Pressbooks CLI
 
-[![CI](https://github.com/johnnylibretexts/pressbooks-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/johnnylibretexts/pressbooks-cli/actions/workflows/ci.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/johnnylibretexts/pressbooks-cli.svg)](https://pkg.go.dev/github.com/johnnylibretexts/pressbooks-cli)
-[![Go Report Card](https://goreportcard.com/badge/github.com/johnnylibretexts/pressbooks-cli)](https://goreportcard.com/report/github.com/johnnylibretexts/pressbooks-cli)
+[![CI](https://github.com/johnnylibretexts-ai/pressbooks-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/johnnylibretexts-ai/pressbooks-cli/actions/workflows/ci.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/johnnylibretexts-ai/pressbooks-cli.svg)](https://pkg.go.dev/github.com/johnnylibretexts-ai/pressbooks-cli)
+[![Go Report Card](https://goreportcard.com/badge/github.com/johnnylibretexts-ai/pressbooks-cli)](https://goreportcard.com/report/github.com/johnnylibretexts-ai/pressbooks-cli)
 [![Go 1.26+](https://img.shields.io/badge/go-1.26%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/dl/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -49,7 +49,7 @@ read. No credentials.
 ## Install
 
 ```bash
-go install github.com/johnnylibretexts/pressbooks-cli/cmd/pressbooks-pp-cli@latest
+go install github.com/johnnylibretexts-ai/pressbooks-cli/cmd/pressbooks-pp-cli@latest
 ```
 
 Or build from a clone:

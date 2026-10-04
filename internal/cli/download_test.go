@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/johnnylibretexts/pressbooks-cli/internal/pressbooks"
+	"github.com/johnnylibretexts-ai/pressbooks-cli/internal/pressbooks"
 )
 
 // downloadTestFake extends extractTestFake with the export-probing and

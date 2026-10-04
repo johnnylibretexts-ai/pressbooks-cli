@@ -1,4 +1,4 @@
-module github.com/johnnylibretexts/pressbooks-cli
+module github.com/johnnylibretexts-ai/pressbooks-cli
 
 go 1.26
 

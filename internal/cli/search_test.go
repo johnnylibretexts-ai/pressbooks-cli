@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/johnnylibretexts/pressbooks-cli/internal/pressbooks"
+	"github.com/johnnylibretexts-ai/pressbooks-cli/internal/pressbooks"
 )
 
 // withBackendPace temporarily overrides the package-level backendPace for

@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/johnnylibretexts/pressbooks-cli/internal/pressbooks"
+	"github.com/johnnylibretexts-ai/pressbooks-cli/internal/pressbooks"
 	"github.com/spf13/cobra"
 )
 
